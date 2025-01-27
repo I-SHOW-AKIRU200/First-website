@@ -8,7 +8,7 @@ html_code = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map Code Organizer</title>
+    <title>AKIRU MAP CODE ORGANIC</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -145,7 +145,7 @@ html_code = """
 
     <!-- Header Section with Web Name -->
     <div class="header">
-        AKIRU
+        I SHOW AKIRU
     </div>
 
     <div class="container">
