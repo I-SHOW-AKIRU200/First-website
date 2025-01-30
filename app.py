@@ -212,6 +212,23 @@ html_code = """
                     <button onclick="copyMapCode('mapCode4')">Copy Code 4 player</button>
                 </div>
             </div>
+            <!-- Map Details Section 4 -->
+            <div class="map-container">
+                <div class="image-container">
+                    <img src="https://i.postimg.cc/HL2S8QgL/Free-Fire-01-27-2025-15-30-22.png" alt="Map Image 4">
+                </div>
+                <div class="map-code-container" id="mapCode4">
+                    #FREEFIRE36E74163DF6B8DB4FAF9A70858CBC1A35872
+                </div>
+                <div class="button-container">
+                    <button onclick="copyMapCode('mapCode4')">Copy Code 2 player</button>
+                    <div class="map-code-container" id="mapCode4">
+                    #FREEFIRE36E74163DF6B8DB4FAF9A70858CBC1A35872
+                </div>
+                <div class="button-container">
+                    <button onclick="copyMapCode('mapCode4')">Copy Code 4 player</button>
+                </div>
+            </div>
         </div>
     </div>
 
